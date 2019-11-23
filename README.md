@@ -1,5 +1,6 @@
 ## Alexa Sentiment-Analysis
-[![logo](https://github.com/ShehzadaAlam/Airbnb-Rental-Price-Prediction/blob/master/AirbnbLogo.png "Airbnb Logo")]
+![logo](https://github.com/ShehzadaAlam/Sentiment-Analysis/blob/master/Images/AlexaLogo.jpg "Alexa Logo")
+image source: Pexel.com
 -----
 #### Overview:
 The objective of this project is to build sentiment analyzer to predict weather the review falls under positive sentiment or negative.
