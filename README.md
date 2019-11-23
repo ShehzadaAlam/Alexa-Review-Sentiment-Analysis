@@ -1,18 +1,17 @@
 ![logo](https://github.com/ShehzadaAlam/Sentiment-Analysis/blob/master/Images/Alexalogo.jpg "Alexa Logo")
 ## Alexa Sentiment-Analysis
------
-#### Overview:
+---
+### Overview:
 The objective of this project is to build sentiment analyzer to predict weather the review falls under positive sentiment or negative.
 
-#### DataSet:
+### DataSet:
 * Source: https://www.kaggle.com/sid321axn/amazon-alexa-reviews/data
 * Observations: 3150
 * Features: 6
 
-#### Data Visualization:
+### Data Visualization:
 
+### Model Building:
 
-#### Model Building:
-
-#### Streamlit Deployment:
+### Streamlit Deployment:
 
