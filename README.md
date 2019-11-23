@@ -1,4 +1,4 @@
-![logo](https://github.com/ShehzadaAlam/Sentiment-Analysis/blob/master/Images/AlexaLogo.jpg "Alexa Logo")
+![logo](https://github.com/ShehzadaAlam/Sentiment-Analysis/blob/master/Images/Alexalogo.jpg "Alexa Logo")
 ## Alexa Sentiment-Analysis
 -----
 #### Overview:
