@@ -1,7 +1,6 @@
 ## Sentiment-Analysis
-
+-----
 #### Overview:
-----
 The objective of this project is to build sentiment analyzer to predict weather the review falls under positive sentiment or negative.
 
 #### DataSet:
@@ -9,9 +8,10 @@ The objective of this project is to build sentiment analyzer to predict weather 
 * Observations: 3150
 * Features: 6
 
-#### Data Visualization
----
-#### Model Building
----
-#### Streamlit Deployment
----
+#### Data Visualization:
+
+
+#### Model Building:
+
+#### Streamlit Deployment:
+
