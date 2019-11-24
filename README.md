@@ -1,4 +1,5 @@
-<p align="center"><img src='https://github.com/ShehzadaAlam/Sentiment-Analysis/blob/master/Images/Alexalogo.jpg' /></p>
+<center><img src='https://github.com/ShehzadaAlam/Sentiment-Analysis/blob/master/Images/Alexalogo.jpg' /></center>
+
 ## Alexa Sentiment-Analysis
 ---
 ### Overview:
