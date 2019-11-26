@@ -19,9 +19,9 @@ def main():
         description = [review_description]
         pred = sentiment_model.predict(sequence.pad_sequences(tokenizer.texts_to_sequences(description),maxlen=maxlen))  
         if pred>0.5:
-            st.success(f'The sentiment is positive: {pred}')
+            st.success(f'The sentiment is positive')
         else:
-            st.error(f'The sentiment is negative: {pred}')
+            st.error(f'The sentiment is negative')
     elif prediction and review_description == '':
         st.warning('Please enter your review')
 
