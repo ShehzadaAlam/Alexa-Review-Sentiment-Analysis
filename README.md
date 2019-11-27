@@ -35,7 +35,7 @@ SVM + TFIDF |
 **Sequential Model**
 !['Sequential'](https://github.com/ShehzadaAlam/Alexa-Review-Sentiment-Analysis/blob/master/Images/model.png)
 
-**Funstional API**
+**Functional API**
 !['Functional API'](https://github.com/ShehzadaAlam/Alexa-Review-Sentiment-Analysis/blob/master/Images/Model_Custom.png)
 
 
