@@ -27,8 +27,8 @@ Model | Accuracy Score | AUC ROC Score
 ----- | ----- | -----
 Naive Bayes + BOW | 93 % | 60 %
 Naive Bayes + TFIDF | 91 % | 50 %
-SVM + BOW | 93% | 75 %
-SVM + TFIDF | 93% | 61%
+SVM + BOW | 93 % | 75 %
+SVM + TFIDF | 93 % | 61 %
 
 
 ##### Deep Learning Model:
