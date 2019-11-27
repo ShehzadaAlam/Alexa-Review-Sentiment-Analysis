@@ -23,15 +23,20 @@ The objective of this project is to build sentiment analyzer to predict weather 
 
 ### Model Building:
 ##### Machine Learning Model:
-Model | Score
------ | -----
-Naive Bayes + BOW | 
-Naive Bayes + TFIDF |
-SVM + BOW |
-SVM + TFIDF |
+Model | Accuracy Score | AUC ROC Score
+----- | ----- | -----
+Naive Bayes + BOW | 93 % | 60 %
+Naive Bayes + TFIDF | 91 % | 50 %
+SVM + BOW | 93% | 75 %
+SVM + TFIDF | 93% | 61%
 
 
 ##### Deep Learning Model:
+Model | Accuracy Score | AUC ROC Score
+----- | ----- | -----
+BiLSTM | 94 % | 89 % 
+Multi Conv Net Architecture | 95 % | 94 % 
+
 **Sequential Model**
 !['Sequential'](https://github.com/ShehzadaAlam/Alexa-Review-Sentiment-Analysis/blob/master/Images/model.png)
 
