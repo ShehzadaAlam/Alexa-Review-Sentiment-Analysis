@@ -1,5 +1,3 @@
-<p align="center"><img src='https://github.com/ShehzadaAlam/Sentiment-Analysis/blob/master/Images/Alexalogo.jpg'/></p>
-
 ## Alexa Sentiment-Analysis
 ---
 ### Overview:
@@ -18,10 +16,12 @@ The objective of this project is to build sentiment analyzer to predict weather 
 
 * Its seems that positive class is more than the negative class, which indicate imbalance of class.
 * Moreover there are more people has provided rating of 5 star to Alexa product which indicate that customer is satosfied with the product.
------
+
+* Wordcloud: All words, Positive and Negative
 ![Wordcloud](https://github.com/ShehzadaAlam/Alexa-Review-Sentiment-Analysis/blob/master/Images/Wordcloud.png)
 
 ### Model Building:
+----
 ##### Machine Learning Model:
 Model | Accuracy Score | AUC ROC Score
 ----- | ----- | -----
@@ -32,6 +32,7 @@ SVM + TFIDF | 93 % | 61 %
 
 
 ##### Deep Learning Model:
+----
 Model | Accuracy Score | AUC ROC Score
 ----- | ----- | -----
 BiLSTM | 94 % | 89 % 
@@ -45,6 +46,7 @@ Multi Conv Net Architecture | 95 % | 94 %
 
 
 ### Streamlit Deployment:
+----
 - Model Deplayment was done using streamlit.
 * If you've entred nothing.
 ![nothing Entered](https://github.com/ShehzadaAlam/Alexa-Review-Sentiment-Analysis/blob/master/Images/if%20you%20enter%20nothing.PNG)
